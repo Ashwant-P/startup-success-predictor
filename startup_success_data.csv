@@ -1,0 +1,11 @@
+Name,Industry,Funding($M),TeamSize,Location,Age(Years),Success
+Zomato,FoodTech,250.0,200,India,15,1
+ABC Health,Health,0.5,5,US,2,0
+GoLogi,Logistics,20.0,45,India,7,1
+EdSpark,EdTech,1.2,8,UK,3,0
+FinMate,FinTech,50.0,50,India,6,1
+AgroGrow,AgriTech,0.3,3,India,1,0
+MediPlus,Health,5.0,12,US,4,0
+Learnly,EdTech,0.8,6,UK,2,0
+PayQuik,FinTech,30.0,40,India,5,1
+QuickCart,Ecommerce,12.0,20,US,3,1
