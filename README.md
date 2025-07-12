@@ -20,6 +20,11 @@ A beginner-friendly machine learning and Streamlit app that predicts whether a s
 - Scikit-learn (Random Forest)
 
 ---
+## 👨‍💻 Author
+
+**P. Ashwant**  
+AI & DS Student, Chennai  
+[GitHub](https://github.com/Ashwant-P)
 
 ## ▶️ How to Run This App
 
@@ -28,9 +33,9 @@ A beginner-friendly machine learning and Streamlit app that predicts whether a s
 ```bash
 git clone https://github.com/Ashwant-P/startup-success-predictor.git
 cd startup-success-predictor
---------------------------------------------------------------------
-👨‍💻 Author:
-       Ashwant P
-AI & DS Student, Chennai  
-[GitHub](https://github.com/Ashwant-P)
---------------------------------------------------------------------
+---
+
+
+
+
+
